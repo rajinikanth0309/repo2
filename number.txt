@@ -1,3 +1,7 @@
 pulling request
 completed fork and pulling
+
+trying to merge 
 doing changes
+
+now doing from branch... pull request
